@@ -1,0 +1,8 @@
+mo-gymnasium[all]
+stable-baselines3==1.8.0
+pynvml
+mujoco==2.3.3
+tqdm
+rich
+ipython
+git+https://github.com/benelot/pybullet-gym
